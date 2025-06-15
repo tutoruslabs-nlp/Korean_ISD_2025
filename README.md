@@ -82,5 +82,7 @@ src
 
 
 ## Reference
-huggingface/transformers (https://github.com/huggingface/transformers)  
 국립국어원 인공지능 (AI)말평 (https://kli.korean.go.kr/benchmark)  
+transformers (https://github.com/huggingface/transformers)  
+Qwen3-8B (https://huggingface.co/Qwen/Qwen3-8B)
+HyperCLOVAX-SEED-Text-Instruct-1.5B (https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B)
