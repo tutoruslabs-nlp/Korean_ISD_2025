@@ -31,22 +31,12 @@ src
                 {
                     "id": "nikluge-2025-au-dev-00001-001",
                     "speaker_id": "P1",
-                    "form": "이성 부부는 애 키우는데 돈 쓰는데 동성 부부는 애를 못 낳으니까 쓸 돈이 많은 건가?"
+                    "form": "중고 가구를 팔면서 속을 안 살피는 사람이 어딨어, 무겁고 소리도 났을 텐데."
                 },
                 {
                     "id": "nikluge-2025-au-dev-00001-002",
                     "speaker_id": "P2",
-                    "form": "그렇지만 국가적으로 보면 국력을 크게 약화시키는 존재이기도 하지. 자손을 안 가지니까 생산력 점점 갉아먹잖아."
-                },
-                {
-                    "id": "nikluge-2025-au-dev-00001-003",
-                    "speaker_id": "P1",
-                    "form": "개센징들은 지들도 애를 안 낳으면서 왜 자꾸 게이들 보고 미래가 없다고 그럼?"
-                },
-                {
-                    "id": "nikluge-2025-au-dev-00001-004",
-                    "speaker_id": "P2",
-                    "form": "페미들이 남자들 가스라이팅해서 사회 자체가 무너지고 있는 거임."
+                    "form": "자작나무 타는 냄새가 여기까지 진동한다.ㅋ"
                 }
             ]
         },
@@ -54,18 +44,10 @@ src
         [
             {
                 "id": "nikluge-2025-au-dev-00001-001",
-                "label": "inappropriate"
+                "label": "appropriate"
             },
             {
                 "id": "nikluge-2025-au-dev-00001-002",
-                "label": "inappropriate"
-            },
-            {
-                "id": "nikluge-2025-au-dev-00001-003",
-                "label": "inappropriate"
-            },
-            {
-                "id": "nikluge-2025-au-dev-00001-004",
                 "label": "inappropriate"
             }
         ]
