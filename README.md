@@ -3,11 +3,6 @@
 
 추론의 실행 방법(How to Run)은 아래에서 확인하실 수 있습니다.
 
-|Model|Accuracy(%)|
-|:---|---:|
-|MLP-KTLim/llama-3-Korean-Bllossom-8B (without SFT)|54.1|
-|MLP-KTLim/llama-3-Korean-Bllossom-8B (with SFT)|90.7|
-
 ### Baseline
 |           Model           | Accuracy(%) |
 | :-----------------------: | :---------: |
