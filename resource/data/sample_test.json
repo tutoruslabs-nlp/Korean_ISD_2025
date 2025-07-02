@@ -1,0 +1,158 @@
+[
+    {
+        "id": "nikluge-2025-au-test-00001",
+        "input":
+        {
+            "document_id": "nikluge-2025-au-test-00001",
+            "utterance":
+            [
+                {
+                    "id": "nikluge-2025-au-test-00001-001",
+                    "speaker_id": "P1",
+                    "form": "담비는 생긴 건 존귀 존잘인데 쌈질도 존나 잘하고 머리도 좋음."
+                },
+                {
+                    "id": "nikluge-2025-au-test-00001-002",
+                    "speaker_id": "P2",
+                    "form": "이젠 최상위 포식자가 됐죠, 세 마리면 멧돼지도 잡음."
+                },
+                {
+                    "id": "nikluge-2025-au-test-00001-003",
+                    "speaker_id": "P1",
+                    "form": "드립으로 뇌절하는지 모르겠는데 진심으로 하는 소리는 아니겠죠?"
+                },
+                {
+                    "id": "nikluge-2025-au-test-00001-004",
+                    "speaker_id": "P2",
+                    "form": "담비들은 무리 생활 함, 그리고 멧돼지 사냥도 합니다."
+                }
+            ]
+        },
+        "output":
+        [
+            {
+                "id": "nikluge-2025-au-test-00001-001",
+                "label": "inappropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00001-002",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00001-003",
+                "label": "inappropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00001-004",
+                "label": "appropriate"
+            }
+        ]
+    },
+    {
+        "id": "nikluge-2025-au-test-00002",
+        "input":
+        {
+            "document_id": "nikluge-2025-au-test-00002",
+            "utterance":
+            [
+                {
+                    "id": "nikluge-2025-au-test-00002-001",
+                    "speaker_id": "P1",
+                    "form": "골프장에 처음 간 걸 왜 '머리 올렸다'고 하는 거야?"
+                },
+                {
+                    "id": "nikluge-2025-au-test-00002-002",
+                    "speaker_id": "P2",
+                    "form": "그거 전문용어인 줄 알고 착각하는 사람들 많은데, 여성비하하는 말이야."
+                },
+                {
+                    "id": "nikluge-2025-au-test-00002-003",
+                    "speaker_id": "P1",
+                    "form": "여자들이 더 많이 쓰던데?"
+                },
+                {
+                    "id": "nikluge-2025-au-test-00002-004",
+                    "speaker_id": "P2",
+                    "form": "골프가 얼마나 소양이 저렴한 인간들에 의해서 정착됐는지 보여주는 예임."
+                }
+            ]
+        },
+        "output":
+        [
+            {
+                "id": "nikluge-2025-au-test-00002-001",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00002-002",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00002-003",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00002-004",
+                "label": "inappropriate"
+            }
+        ]
+    },
+    {
+        "id": "nikluge-2025-au-test-00003",
+        "input":
+        {
+            "document_id": "nikluge-2025-au-test-00003",
+            "utterance":
+            [
+                {
+                    "id": "nikluge-2025-au-test-00003-001",
+                    "speaker_id": "P1",
+                    "form": "우울증 환자한테 왜 자꾸 산책하고 운동하라고 하는 거야? 그건 하반신 마비인 사람한테 운동을 안 해서 근육이 부족하다는 거랑 같아."
+                },
+                {
+                    "id": "nikluge-2025-au-test-00003-002",
+                    "speaker_id": "P2",
+                    "form": "그럼 원하는 걸 정확히 말해. 무조건 불평만 하니 달리 해줄 말이 없어. 요즘 MZ들은 따박따박 할 말 잘하잖아."
+                },
+                {
+                    "id": "nikluge-2025-au-test-00003-003",
+                    "speaker_id": "P1",
+                    "form": "함부로 나를 판단하지 말고, 공감해줘. 그냥 곁에만 있어 달라고,"
+                },
+                {
+                    "id": "nikluge-2025-au-test-00003-004",
+                    "speaker_id": "P2",
+                    "form": "우울한 사람 옆에 장시간 있는 게 얼마나 힘든 일인 줄 알아? "
+                },
+                {
+                    "id": "nikluge-2025-au-test-00003-005",
+                    "speaker_id": "P1",
+                    "form": "그럼 그냥 혼자 이렇게 살게 놔둬. "
+                }
+            ]
+        },
+        "output":
+        [
+            {
+                "id": "nikluge-2025-au-test-00003-001",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00003-002",
+                "label": "inappropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00003-003",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00003-004",
+                "label": "appropriate"
+            },
+            {
+                "id": "nikluge-2025-au-test-00003-005",
+                "label": "appropriate"
+            }
+        ]
+    }
+]
